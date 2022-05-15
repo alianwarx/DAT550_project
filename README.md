@@ -16,4 +16,5 @@ To run this code you need to donwnload the fever dataset.
 link to download the dataset:https://www.kaggle.com/c/fake-news-pair-classification-challenge 
 This code is using PCA for visualization. In this code three machine learning model (RF, KNN, AdaBosst) are used 
 for classification of encoded input. Evaluation results showed superiority of RF.
+Ref. im-coder.com,leemeng.tw.
 
